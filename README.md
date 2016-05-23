@@ -1,12 +1,9 @@
 # ActiveAdmin Themes
 Awesome themes for [ActiveAdmin](www.activeadmin.info).
 
-----
+Do you know that you can easily customize your ActiveAdmin with beautiful themes? There's some nice themes for ActiveAdmin that you can install just inserting a new gem in your Gemfile and inserting one line of code in your `application.css.scss`.
 
-Tired of the old and ugly ActiveAdmin theme? 
-![](img/active_admin_default.png)
-
-If so, do you know that you can easily customize your ActiveAdmin with beautiful themes? Yes! There's some nice themes for ActiveAdmin that you can install just inserting a new gem in your Gemfile and inserting one line of code in your `application.css.scss`.
+Let's take a look in these themes? :)
 
 ### [ActiveMaterial](https://github.com/vigetlabs/active_material)
 [![Beautiful themes for Rails ActiveAdmin: ActiveMaterial, based on Google's Material design](img/active_material.png)](https://github.com/vigetlabs/active_material)
@@ -29,6 +26,6 @@ If so, do you know that you can easily customize your ActiveAdmin with beautiful
 ### [Active Admin Flat Skin](https://github.com/ayann/active_admin_flat_skin)
 [![Beautiful themes for Rails ActiveAdmin: Active Admin Flat Skin](img/active_admin_flat_skin.jpg)](ttps://github.com/ayann/active_admin_flat_skin)
 
-# Submit a new theme
+## Submit a new theme
 Are you developing a new theme for ActiveAdmin or have noticed some theme that isn't here? Please, make a pull request or [create a new issue](https://github.com/paladini/activeadmin-themes/issues/new) with the "New theme" tag, so I can add it here as soon as possible :) 
 
