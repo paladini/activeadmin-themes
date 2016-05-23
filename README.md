@@ -1,25 +1,34 @@
-# activeadmin-themes
-Awesome themes for ActiveAdmin.
+# ActiveAdmin Themes
+Awesome themes for [ActiveAdmin](www.activeadmin.info).
 
-Do you know that you can easily customize your ActiveAdmin with awesome themes? 
+----
 
-[ActiveMaterial (based on Google's Material design)](https://github.com/vigetlabs/active_material)
-![Beautiful themes for Rails ActiveAdmin: ActiveMaterial, based on Google's Material design](img/active_material.png)
+Tired of the old and ugly ActiveAdmin theme? 
+![](img/active_admin_default.png)
 
-[Active Admin Theme](https://github.com/activeadmin-plugins/active_admin_theme)
-![Beautiful themes for Rails ActiveAdmin: Active Admin Theme](img/active_admin_theme.png)
+If so, do you know that you can easily customize your ActiveAdmin with beautiful themes? Yes! There's some nice themes for ActiveAdmin that you can install just inserting a new gem in your Gemfile and inserting one line of code in your `application.css.scss`.
 
-[Active Skin](https://github.com/rstgroup/active_skin)
-![Beautiful themes for Rails ActiveAdmin: Active Skin](img/active_skin.png)
+### [ActiveMaterial](https://github.com/vigetlabs/active_material)
+[![Beautiful themes for Rails ActiveAdmin: ActiveMaterial, based on Google's Material design](img/active_material.png)](https://github.com/vigetlabs/active_material)
 
-[Flattened Active Admin](https://github.com/Papercloud/flattened_active_admin)
-![Beautiful themes for Rails ActiveAdmin: Flattened Active Admin](img/flattened_active_admin.png)
+### [Active Admin Theme](https://github.com/activeadmin-plugins/active_admin_theme)
+[![Beautiful themes for Rails ActiveAdmin: Active Admin Theme](img/active_admin_theme.png)](https://github.com/activeadmin-plugins/active_admin_theme)
 
-[Face of Active Admin](https://github.com/kvokka/face_of_active_admin)
-![Beautiful themes for Rails ActiveAdmin: Face of Active Admin](img/face_of_active_admin.png)
+### [Active Skin](https://github.com/rstgroup/active_skin)
+[![Beautiful themes for Rails ActiveAdmin: Active Skin](img/active_skin.png)](https://github.com/rstgroup/active_skin)
 
-[Active Bootstrap Skin](https://github.com/vinhnglx/active_bootstrap_skin)
-![Beautiful themes for Rails ActiveAdmin: Active Bootstrap Skin](img/active_bootstrap_skin.png)
+### [Flattened Active Admin](https://github.com/Papercloud/flattened_active_admin)
+[![Beautiful themes for Rails ActiveAdmin: Flattened Active Admin](img/flattened_active_admin.png)](https://github.com/Papercloud/flattened_active_admin)
 
-[Active Admin Flat Skin](https://github.com/ayann/active_admin_flat_skin)
-![Beautiful themes for Rails ActiveAdmin: Active Admin Flat Skin](img/active_admin_flat_skin.png)
+### [Face of Active Admin](https://github.com/kvokka/face_of_active_admin)
+[![Beautiful themes for Rails ActiveAdmin: Face of Active Admin](img/face_of_active_admin.png)](https://github.com/kvokka/face_of_active_admin)
+
+### [Active Bootstrap Skin](https://github.com/vinhnglx/active_bootstrap_skin)
+[![Beautiful themes for Rails ActiveAdmin: Active Bootstrap Skin](img/active_bootstrap_skin.png)](https://github.com/vinhnglx/active_bootstrap_skin)
+
+### [Active Admin Flat Skin](https://github.com/ayann/active_admin_flat_skin)
+[![Beautiful themes for Rails ActiveAdmin: Active Admin Flat Skin](img/active_admin_flat_skin.jpg)](ttps://github.com/ayann/active_admin_flat_skin)
+
+# Submit a new theme
+Are you developing a new theme for ActiveAdmin or have noticed some theme that isn't here? Please, make a pull request or [create a new issue](https://github.com/paladini/activeadmin-themes/issues/new) with the "New theme" tag, so I can add it here as soon as possible :) 
+
