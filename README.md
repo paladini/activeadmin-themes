@@ -1,9 +1,5 @@
 # ActiveAdmin Themes
-Awesome themes for [ActiveAdmin](www.activeadmin.info).
-
-Do you know that you can easily customize your ActiveAdmin with beautiful themes? There's some nice themes for ActiveAdmin that you can install just inserting a new gem in your Gemfile and inserting one line of code in your `application.css.scss`.
-
-Let's take a look in these themes? :)
+Awesome themes for [ActiveAdmin](www.activeadmin.info). Let's take a look? :)
 
 ### [ActiveMaterial](https://github.com/vigetlabs/active_material)
 [![Beautiful themes for Rails ActiveAdmin: ActiveMaterial, based on Google's Material design](img/active_material.png)](https://github.com/vigetlabs/active_material)
