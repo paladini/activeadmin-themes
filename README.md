@@ -1,6 +1,9 @@
 # ActiveAdmin Themes
 Awesome themes for [ActiveAdmin](www.activeadmin.info). Let's take a look? :)
 
+### [Formadmin](https://github.com/formaweb/formadmin)
+[![Modern and responsive theme for Active Admin used by Formaweb.](img/formadmin.png)](https://github.com/formaweb/formadmin)
+
 ### [ActiveMaterial](https://github.com/vigetlabs/active_material)
 [![Beautiful themes for Rails ActiveAdmin: ActiveMaterial, based on Google's Material design](img/active_material.png)](https://github.com/vigetlabs/active_material)
 
@@ -23,5 +26,4 @@ Awesome themes for [ActiveAdmin](www.activeadmin.info). Let's take a look? :)
 [![Beautiful themes for Rails ActiveAdmin: Active Admin Flat Skin](img/active_admin_flat_skin.jpg)](ttps://github.com/ayann/active_admin_flat_skin)
 
 ## Submit a new theme
-Are you developing a new theme for ActiveAdmin or have noticed some theme that isn't here? Please, make a pull request or [create a new issue](https://github.com/paladini/activeadmin-themes/issues/new) with the "New theme" tag, so I can add it here as soon as possible :) 
-
+Are you developing a new theme for ActiveAdmin or have noticed some theme that isn't here? Please, make a pull request or [create a new issue](https://github.com/paladini/activeadmin-themes/issues/new) with the "New theme" tag, so I can add it here as soon as possible :)
