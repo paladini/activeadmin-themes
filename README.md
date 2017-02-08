@@ -26,7 +26,7 @@ Awesome themes for [ActiveAdmin](www.activeadmin.info). Let's take a look? :)
 [![Beautiful themes for Rails ActiveAdmin: Active Admin Flat Skin](img/active_admin_flat_skin.jpg)](https://github.com/ayann/active_admin_flat_skin)
 
 ### [Arctic Admin](https://github.com/cle61/arctic_admin)
-[![Beautiful themes for Rails ActiveAdmin: Arctic Admin](img/arctic_admin.jpg)](https://github.com/cle61/arctic_admin)
+[![Beautiful themes for Rails ActiveAdmin: Arctic Admin](img/arctic_admin.png)](https://github.com/cle61/arctic_admin)
 
 ## Submit a new theme
 Are you developing a new theme for ActiveAdmin or have noticed some theme that isn't here? Please, make a pull request or [create a new issue](https://github.com/paladini/activeadmin-themes/issues/new) with the "New theme" tag, so I can add it here as soon as possible :)
