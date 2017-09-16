@@ -1,6 +1,9 @@
 # ActiveAdmin Themes
 Awesome themes for [ActiveAdmin](www.activeadmin.info). Let's take a look? :)
 
+### [Blaze Theme](https://github.com/blocknotes/activeadmin_blaze_theme)
+[![Compact and clean BlazeCSS theme](img/blaze_theme.jpg)](https://github.com/blocknotes/activeadmin_blaze_theme)
+
 ### [Formadmin](https://github.com/formaweb/formadmin)
 [![Modern and responsive theme for Active Admin used by Formaweb.](img/formadmin.png)](https://github.com/formaweb/formadmin)
 
