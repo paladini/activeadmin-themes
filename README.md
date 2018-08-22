@@ -17,7 +17,7 @@ Awesome themes for [ActiveAdmin](www.activeadmin.info). Let's take a look? :)
 [![Beautiful themes for Rails ActiveAdmin: ActiveMaterial, based on Google's Material design](img/active_material.png)](https://github.com/vigetlabs/active_material)
 
 ### [Arctic Admin](https://github.com/cle61/arctic_admin)
-[![Beautiful themes for Rails ActiveAdmin: Arctic Admin](img/arctic_admin.png)](https://github.com/cle61/arctic_admin)
+[![Beautiful themes for Rails ActiveAdmin: Arctic Admin](https://github.com/cle61/arctic_admin/blob/master/doc/index.png)](https://github.com/cle61/arctic_admin)
 
 ### [Blaze Theme](https://github.com/blocknotes/activeadmin_blaze_theme)
 [![Compact and clean BlazeCSS theme](img/blaze_theme.jpg)](https://github.com/blocknotes/activeadmin_blaze_theme)
