@@ -1,6 +1,8 @@
 # ActiveAdmin Themes
 Awesome themes for [ActiveAdmin](www.activeadmin.info). Let's take a look? :)
 
+Also take a look at our brother project, [Awesome-ActiveAdmin](https://github.com/serradura/awesome-activeadmin), a curated list of awesome activeadmin resources, extensions, posts and utilities.
+
 ### [Active Admin Flat Skin](https://github.com/ayann/active_admin_flat_skin)
 [![Beautiful themes for Rails ActiveAdmin: Active Admin Flat Skin](img/active_admin_flat_skin.jpg)](https://github.com/ayann/active_admin_flat_skin)
 
