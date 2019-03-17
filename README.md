@@ -1,5 +1,5 @@
 # ActiveAdmin Themes
-Awesome themes for [ActiveAdmin](www.activeadmin.info). Let's take a look? :)
+Awesome themes for [ActiveAdmin](https://activeadmin.info). Let's take a look? :)
 
 Also take a look at our brother project, [Awesome-ActiveAdmin](https://github.com/serradura/awesome-activeadmin), a curated list of awesome activeadmin resources, extensions, posts and utilities.
 
