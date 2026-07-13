@@ -33,6 +33,9 @@ Also take a look at our brother project, [Awesome-ActiveAdmin](https://github.co
 ### [Formadmin](https://github.com/formaweb/formadmin)
 [![Modern and responsive theme for Active Admin used by Formaweb.](img/formadmin.png)](https://github.com/formaweb/formadmin)
 
+### [Active Admin Prism](https://rubygems.org/gems/active_admin_prism)
+[![Clean, modern theme for ActiveAdmin with a redesigned sidebar navigation and filter panel.](img/prism.png)](https://rubygems.org/gems/active_admin_prism)
+
 ### [Fuji Admin](https://rubygems.org/gems/fuji_admin)
 [![Responsive and multi-colored theme for ActiveAdmin with card-based layout, slide-in filter drawer, and 30 built-in palettes.](img/fuji_admin.png)](https://rubygems.org/gems/fuji_admin)
 
