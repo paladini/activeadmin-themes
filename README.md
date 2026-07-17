@@ -41,3 +41,19 @@ Also take a look at our brother project, [Awesome-ActiveAdmin](https://github.co
 
 ## Submit a new theme
 Are you developing a new theme for ActiveAdmin or have noticed some theme that isn't here? Please, make a pull request or [create a new issue](https://github.com/paladini/activeadmin-themes/issues/new) with the "New theme" tag, so I can add it here as soon as possible :)
+
+## Remove default ActiveAdmin CRUD flash messages
+If you want to suppress ActiveAdmin default flash notices after create/update/destroy, add this patch:
+
+```ruby
+# config/initializers/active_admin_disable_default_flash_messages.rb
+Rails.application.config.to_prepare do
+  ActiveAdmin::ResourceController.class_eval do
+    private
+
+    def set_flash_message(*)
+      # no-op: keeps ActiveAdmin from overriding the flash hash with default CRUD messages
+    end
+  end
+end
+```
